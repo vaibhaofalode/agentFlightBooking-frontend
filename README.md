@@ -1,7 +1,3 @@
-## Database records screenshots
-
-![Database Records](https://github.com/vaibhaofalode/agentFlightBooking-frontend/assets/23246722/a7f5aca4-30a2-47ed-b723-9cd54d074a0e)
-
 
 ## All records showing screenshot
 
